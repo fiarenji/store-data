@@ -238,7 +238,23 @@
         "shopee": "https://shopee.co.id/KITAB-ARWAH-BAHASA-INDONESIA-juz-1-KITAB-SAHIRIN-YG-DIKUTUK-i.50828726.15383787405?extraParams=%7B%22display_model_id%22%3A162713552890%2C%22model_selection_logic%22%3A3%7D",
         "tokopedia": "https://tk.tokopedia.com/ZSuTGufuv/",
         "postUrl": "#"
- 
+       },
+        {
+        "id": 15,
+        "name": "KITAB ARWAH BAHASA INDONESIA juz 2/KITAB SAHIRIN YG DIKUTUK",
+        "price": 2750000,
+        "priceText": "Rp 2.750.000",
+        "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98t-lm94xkmmg9sc9b.webp",
+        "gallery": [
+            "https://down-id.img.susercontent.com/file/id-11134207-7r98t-lm94xkmmg9sc9b.webp",
+            "https://down-id.img.susercontent.com/file/id-11134207-7r98r-lm1f6wv6dvnwa2.webp"
+        ],
+        "video": "https://www.youtube.com/embed/ESb6nxoCeWU",
+        "desc": "kitab Arwah adalah kitab peninggalan jaman Nabi sulaeman, di dalam nya ber isi azimah, atau qosam atau kata - kata perintah yg di gunakan Nabi sulaeman untuk dapat memanggil, memerintah dan menundukan jin, ifrit dan mahluq ghaib lain nya, Kitab ini di tuliskan kembali oleh ulama dari barat dgn gaya dan tatacara yg lebih sederhana dan mudah, banyak kandungan isi dari kitab syamsul maarif di dalam nya, terdapat kamus bahasa arwah, tutorial dgn ilustrasi, dari hasil penelitian nya dari berbagai belahan bumi, asia, afrika, arab, turki dsb. Rahasia di balik ilmu ghaib, tebal 550 hlm +/_, pembahasan dunia Ghaib dari sudut pandang filosofi, kenali dunia ghaib serta penghuni nya dan bagaimana cara menggunakan mereka untuk berbagai hazat. ilmu tajrib dan Rahasia, bebas sanad tapi sangat ampuh dan mujarab. melakukan praktek pemanggilan khudam secara nyata.",
+        "badge": "Paling diminati",
+        "shopee": "https://shopee.co.id/Kitab-ARWAH-WAL-JIN-JUZZ-2-Bahasa-Indonesia-Sihir-Megician-ilmu-khudam-i.50828726.14285508131?extraParams=%7B%22display_model_id%22%3A172920728496%2C%22model_selection_logic%22%3A3%7D",
+        "tokopedia": "https://tk.tokopedia.com/ZSu7RTWQq/"
+    },
     {
         "id": 16,
         "name": "KITAB ARWAH BAHASA INDONESIA juz 3/KITAB SAHIRIN YG DIKUTUK",
